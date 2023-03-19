@@ -1,0 +1,2 @@
+set(USE_CUDA OFF)
+set(USE_CUDNN OFF)
